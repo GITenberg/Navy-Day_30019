@@ -1,0 +1,43 @@
+_repo: Navy-Day_30019
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Harry
+    aliases:
+    - Harrison, Henry Maxwell
+    - Dempsey, Henry Maxwell
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '25395'
+    url: http://www.gutenberg.org/2009/agents/25395
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
+description: 'The Army had a new theme song: "Anything you can do, we can do better!"
+  And they meant anything, including up-to-date hornpipes! A classic science fiction
+  tale from the pages of "If -- Worlds of Science Fiction," January 1954 issue.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Navy Day
+url: http://www.gutenberg.org/ebooks/30019

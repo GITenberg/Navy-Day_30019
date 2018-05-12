@@ -26,6 +26,8 @@ creator:
 description: 'The Army had a new theme song: "Anything you can do, we can do better!"
   And they meant anything, including up-to-date hornpipes! A classic science fiction
   tale from the pages of "If -- Worlds of Science Fiction," January 1954 issue.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30019#Navy-Day
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-18'
 gutenberg_type: Text
